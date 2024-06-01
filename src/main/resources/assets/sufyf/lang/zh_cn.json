@@ -1,0 +1,7 @@
+{
+  "commands.fack": "正在屏蔽 ",
+  "commands.unfack": "停止屏蔽 ",
+  "commands.found": "无法找到该玩家: ",
+  "hack.name.step": "上梯",
+  "hack.name.no_back": "无背景"
+}

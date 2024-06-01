@@ -1,0 +1,7 @@
+{
+  "commands.fack": "Ignoring ",
+  "commands.unfack": "Un-ignore ",
+  "commands.found": "Can't found the player: ",
+  "hack.name.step": "Step",
+  "hack.name.no_back": "NoBackground"
+}
